@@ -18,6 +18,11 @@ I’m an **aspiring Data Scientist and AI/ML Engineer** with over a decade of ex
 
 ## 💻 Skills & Tools
 
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexabaran&langs_count=5&layout=compact)
+
+---
+
 ### Programming Languages:  
 - Python | SQL | C#
 
