@@ -12,16 +12,15 @@ I’m an **aspiring Data Scientist and AI/ML Engineer** with over a decade of ex
 ### 🌟 What I Bring to the Table:
 - **Problem-Solving Expertise:** My engineering background sharpens my analytical skills.  
 - **Business Acumen:** Thanks to an MBA, I understand how to align tech solutions with strategic goals.  
-- **Creativity & Innovation:** I love tackling challenges with fresh, inventive perspectives.  
+- **Creativity & Innovation:** I love tackling challenges with fresh, inventive perspectives.
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexabaran&show_icons=true&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexabaran&langs_count=5&layout=normal&theme=dark)
 
 ---
 
 ## 💻 Skills & Tools
-
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexabaran&show_icons=true&count_private=true&hide=prs&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexabaran&langs_count=5&layout=compact&theme=merko)
-
 
 ---
 
