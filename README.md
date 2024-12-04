@@ -35,7 +35,7 @@ I’m an **aspiring Data Scientist and AI/ML Engineer** with over a decade of ex
 - Git | Jira | Jupyter Notebooks | VS Code | Google Colab    
 
 ### Soft Skills:  
-- Analytical Thinking | Creativity | Problem-Solving | Collaboration | Leadership | Communication | Adaptability | Attention to Detail  
+- Analytical Thinking | Creativity | Problem-Solving | Collaboration | Communication | Adaptability | Attention to Detail  
 
 ---
 
