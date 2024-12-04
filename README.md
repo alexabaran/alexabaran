@@ -15,8 +15,8 @@ I’m an **aspiring Data Scientist and AI/ML Engineer** with over a decade of ex
 - **Creativity & Innovation:** I love tackling challenges with fresh, inventive perspectives.
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexabaran&show_icons=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexabaran&langs_count=5&layout=normal&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexabaran&show_icons=true&count_private=true&theme=dark&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexabaran&langs_count=5&layout=normal&theme=dark&include_all_commits=true)
 
 ---
 
