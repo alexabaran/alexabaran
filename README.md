@@ -17,7 +17,7 @@ I’m an **aspiring Data Scientist and AI/ML Engineer** with over a decade of ex
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexabaran&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_title=true&hide=prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexabaran&langs_count=5&layout=compact&theme=radical&include_all_commits=true&token=YOUR_PERSONAL_ACCESS_TOKEN)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexabaran&langs_count=5&layout=compact&theme=radical&include_all_commits=true)
 
 
 ---
