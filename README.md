@@ -1,7 +1,7 @@
 # Hi there! 👋 I’m Alexa Baran – Welcome to my GitHub!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexabaran)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://alexabaran.com/)  
+[![Website](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://alexabaran.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/alexabaran)
 
 ---
@@ -75,7 +75,7 @@ I’m deepening my knowledge in:
 ---
 
 ## 🌐 Connect & Explore  
-- **Portfolio:** [alexabaran.com](https://alexabaran.com)  
+- **Website:** [alexabaran.com](https://alexabaran.com)  
 - **LinkedIn:** [linkedin.com/in/alexabaran](https://www.linkedin.com/in/alexabaran)  
 - **GitHub:** [github.com/alexabaran](https://github.com/alexabaran)  
 
