@@ -18,7 +18,6 @@ I’m an **aspiring Data Scientist and AI/ML Engineer** with over a decade of ex
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexabaran&langs_count=5&layout=compact&theme=radical&include_all_commits=true)
 
-
 ---
 
 ## 💻 Skills & Tools
@@ -41,9 +40,6 @@ I’m an **aspiring Data Scientist and AI/ML Engineer** with over a decade of ex
 ### Development & Collaboration:  
 - Git | Jira | Jupyter Notebooks | VS Code | Google Colab    
 
-### Soft Skills:  
-- Analytical Thinking | Creativity | Problem-Solving | Collaboration | Communication | Adaptability | Attention to Detail  
-
 ---
 
 ## 🔭 Current Focus  
@@ -57,20 +53,6 @@ I’m deepening my knowledge in:
 - **Cloud Solutions, Distributed Databases, and Service-Oriented Applications**  
 - **Network Virtualization & Security in Distributed Systems**  
 - **AI Applications in Cloud Computing** 
-
----
-
-## 🎓 Education  
-- **M.Sc. in Computer Science – Outsourcing Cloud Solutions** (ongoing)
-- **Data Science Bootcamp**
-- **Executive MBA**  
-- **M.Eng. in Civil Engineering**
-- **BIM: Modelling and Management of Building Information** 
-
----
-
-## 🏗️ Experience Highlights  
-- **12+ years of designing and delivering innovative façade solutions across Germany and Poland, blending creativity with technical precision. 
 
 ---
 
