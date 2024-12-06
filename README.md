@@ -16,10 +16,6 @@ I’m an **aspiring Data Scientist and AI/ML Engineer** with over a decade of ex
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexabaran&langs_count=5&layout=compact&theme=radical&include_all_commits=true)
-
----
-
 ## 💻 Skills & Tools
 
 ---
