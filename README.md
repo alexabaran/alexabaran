@@ -1,4 +1,4 @@
-# Hi there! 👋 I’m Alexa Baran – Welcome to my GitHub!
+# Hi there! 👋 I’m Alexa – Welcome to my GitHub!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexabaran)  
 [![Portfolio](https://img.shields.io/badge/Website-%23000000.svg?logo=firefox&logoColor=white)](https://alexabaran.com/)  
