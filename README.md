@@ -14,12 +14,14 @@ I’m currently pursuing a **Master’s in Computer Science** (Cloud & AI), comp
 
 ---
 
-## What I Focus On
+## Core Focus Areas
 
-- **AI & Machine Learning:** Supervised/unsupervised learning, deep learning, NLP, LLMs  
-- **Cloud AI Solutions:** Vertex AI, Google Cloud, BigQuery  
-- **Tools & Technologies:** Python, SQL, TensorFlow, Scikit-learn, Prompt Engineering  
-- **Continuous Learning:** Google GenAI Intensive, AI Tools for Developers, Executive MBA  
+- **Machine Learning & AI:** Supervised & unsupervised learning, deep learning (CNNs, RNNs), NLP, LLMs  
+- **Generative AI:** Prompt engineering, GenAI agents, domain-specific LLMs 
+- **Cloud & Data Infrastructure:** Google Cloud, Vertex AI, BigQuery, distributed data systems  
+- **Key Tools & Languages:** Python, SQL, TensorFlow, Scikit-learn, Pandas, Jupyter, Git  
+
+> I’ve completed programs by **Google**, **infoShare Academy**, and others focused on applied AI, cloud-based deployment, and modern tooling for developers and business integration.
 
 ---
 
