@@ -31,11 +31,13 @@ Most of my projects are from **bootcamp work and self-study** - check them out o
 
 ---
 
+## Thanks for stopping by! Feel free to connect or reach out.
+
+---
+
 ## Connect & Explore  
 - **Website:** [alexabaran.com](https://alexabaran.com)  
 - **LinkedIn:** [linkedin.com/in/alexabaran](https://www.linkedin.com/in/alexabaran)  
 - **GitHub:** [github.com/alexabaran](https://github.com/alexabaran)  
 
----
 
-Thanks for stopping by! Feel free to connect or reach out.
