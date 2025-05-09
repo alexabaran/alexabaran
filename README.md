@@ -6,60 +6,34 @@
 
 ---
 
-##  About Me  
-I’m an **aspiring Data Scientist and AI/ML Engineer** with over a decade of experience in **façade design** and a **Master’s in Civil Engineering**. Currently diving deep into **cloud technologies** and **AI applications** as I pursue my **Master’s in Computer Science** with a focus on **Outsourcing Cloud Solutions**.  
+## About Me
 
-## 🚀 What I Bring to the Table
+I’m an aspiring **AI/ML Engineer and Data Scientist** with a strong foundation in engineering and a passion for building intelligent systems. After more than a decade in façade design, I transitioned into tech, combining analytical thinking with modern tools to solve real-world problems.
 
-- **Analytical Mindset:** Engineering logic meets data science precision  
-- **Business Acumen:** Tech-savvy with a strategic perspective  
-- **Creative Drive:** Always exploring new tools and ideas to solve complex problems  
+I’m currently pursuing a **Master’s in Computer Science** (Cloud & AI), completing a **Data Science bootcamp**, and expanding my knowledge through programs by **Google** on **Generative AI, LLMs**, and **AI project delivery**. I’m also active in the **Berlin AI/Python community**, helping organize events through groups like PyLadies.
 
 ---
 
-## 🛰️ Skills & Tools
+## What I Focus On
+
+- **AI & Machine Learning:** Supervised/unsupervised learning, deep learning, NLP, LLMs  
+- **Cloud AI Solutions:** Vertex AI, Google Cloud, BigQuery  
+- **Tools & Technologies:** Python, SQL, TensorFlow, Scikit-learn, Prompt Engineering  
+- **Continuous Learning:** Google GenAI Intensive, AI Tools for Developers, Executive MBA  
 
 ---
 
-### Programming Languages:  
-- Python | SQL | C#
+## Projects
 
-### Data Science & AI:  
-- **Data Manipulation & Analysis:** Pandas | NumPy  
-- **Data Visualization:** Matplotlib | Seaborn | Plotly | Tableau  
-- **Machine Learning:** Scikit-learn | XGBoost | TensorFlow | Keras  
-- **Deep Learning:** CNNs | RNNs | Transformer models (BERT)  
-- **AI & NLP:** NLP | LLM | Prompt Engineering | DeepResearch | NotebookLM 
-
-### Data Engineering & Cloud:  
-- MySQL | PostgreSQL | BigQuery | Google Cloud | Vertex AI | Feedgen  
-
-### Tools & Workflow:  
-- Git | Jupyter | VS Code | Google Colab | Jira | Google Workspace AI  
+Most of my projects are from **bootcamp work and self-study** - check them out on my [GitHub](https://github.com/alexabaran) as I continue to build, learn, and contribute.
 
 ---
 
-## 🔭 Current Focus  
-Diving into **Data Science, Machine Learning, and AI** through hands-on projects and continuous learning.  
-
----
-
-## 🛸 Ongoing Learning  
-I’m deepening my knowledge in:  
-- **Data Science, Machine Learning, and AI**  
-- **Generative AI & Prompt Engineering**  
-- **Machine Learning & AI Integration in Business**  
-- **AI Project Management & Organizational Transformation**  
-- **Cloud Technologies & Distributed Systems**  
-
----
-
-## 🌐 Connect & Explore  
+## Connect & Explore  
 - **Website:** [alexabaran.com](https://alexabaran.com)  
 - **LinkedIn:** [linkedin.com/in/alexabaran](https://www.linkedin.com/in/alexabaran)  
 - **GitHub:** [github.com/alexabaran](https://github.com/alexabaran)  
 
 ---
 
-Thanks for stopping by! Let’s create something amazing together. 
-Feel free to reach out for collaboration or just to say hi! 👩‍🚀
+Thanks for stopping by! Feel free to connect or reach out.
