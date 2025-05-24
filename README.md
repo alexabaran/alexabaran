@@ -9,7 +9,7 @@
 
 ---
 
-My journey hasn’t exactly followed a straight line – I went from **big construction projects** to diving into the world of **data**, **tech**, and **innovation**.
+My journey hasn’t exactly followed a straight line - I went from **big construction projects** to diving into the world of **data**, **tech**, and **innovation**.
 
 **Curiosity** has always been my compass, and I’ve never stopped chasing what excites me to **learn** and **build**.
 
