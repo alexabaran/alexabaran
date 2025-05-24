@@ -4,34 +4,49 @@
 [![Portfolio](https://img.shields.io/badge/Website-%23000000.svg?logo=firefox&logoColor=white)](https://alexabaran.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/alexabaran)
 
----
 
-## About Me
+### 👋 Hey there!
 
-A lifelong learner with a passion for discovery, creativity, and solving meaningful problems.
-
-
-My journey hasn’t exactly followed a straight line - I went from big construction projects to diving into the world of data, tech, and innovation. 
-
-Curiosity has always been my compass, and  I’ve never stopped chasing what excites me to learn and build.
-
-Whether it’s designing something physical or creating a smart solution, I love working where logic meets creativity and real impact happens.
-
-Along the way, I’ve earned an eMBA, explored AI, and lembraced every challenge that came with switching paths.
-
-I believe in constant growth - and in finding simple answers to complex problems.
-
-Machine learning, AI, space technology?  
-
-I’m all in! 
-
-Always learning, always exploring. 
-
-Outside of work, you’ll probably find me watching rocket launches, exploring nature, or staying active and on the move.
-
-Let’s see where curiosity takes us next.
+**A lifelong learner** with a passion for **discovery**, **creativity**, and solving **meaningful problems**.
 
 ---
+
+My journey hasn’t exactly followed a straight line – I went from **big construction projects** to diving into the world of **data**, **tech**, and **innovation**.
+
+**Curiosity** has always been my compass, and I’ve never stopped chasing what excites me to **learn** and **build**.
+
+Whether it’s **designing something physical** or **creating a smart solution**, I love working where **logic meets creativity** and **real impact happens**.
+
+---
+
+Along the way, I’ve earned an **eMBA**, explored **AI**, and **embraced every challenge** that came with switching paths.
+
+I believe in **constant growth** – and in finding **simple answers to complex problems**.
+
+---
+
+### 🚀 Interests?
+
+- 🤖 **Machine learning**
+- 🧠 **AI**
+- 🛰️ **Space technology**
+
+I’m **all in**!
+
+---
+
+### 🌱 Always learning, always exploring.
+
+Outside of work, you’ll probably find me:
+- Watching **rocket launches** 🚀  
+- Exploring **nature** 🌿  
+- Staying **active and on the move** 🏃
+
+---
+
+✨ **Let’s see where curiosity takes us next.**
+---
+
 
 ## Core Focus Areas
 
