@@ -5,8 +5,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/alexabaran)
 
 
-### 👋 Hey there!
-
 **A lifelong learner** with a passion for **discovery**, **creativity**, and solving **meaningful problems**.
 
 ---
