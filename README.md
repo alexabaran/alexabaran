@@ -30,6 +30,7 @@ I’m **all in**!
 Outside of work, you’ll probably find me watching **rocket launches**, exploring **nature**, or staying **active and on the move**
 
 **Let’s see where curiosity takes us next.**
+
 ---
 
 
