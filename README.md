@@ -23,26 +23,17 @@ I believe in **constant growth** – and in finding **simple answers to complex 
 
 ---
 
-### 🚀 Interests?
-
-- 🤖 **Machine learning**
-- 🧠 **AI**
-- 🛰️ **Space technology**
+### **Machine learning** 🤖, **AI**, **Space technology** 🚀?
 
 I’m **all in**!
 
----
+### Always learning, always exploring.
 
-### 🌱 Always learning, always exploring.
 
-Outside of work, you’ll probably find me:
-- Watching **rocket launches** 🚀  
-- Exploring **nature** 🌿  
-- Staying **active and on the move** 🏃
 
----
+Outside of work, you’ll probably find me watching **rocket launches**, exploring **nature**, or staying **active and on the move**
 
-✨ **Let’s see where curiosity takes us next.**
+**Let’s see where curiosity takes us next.**
 ---
 
 
