@@ -27,12 +27,7 @@ I’m **all in**!
 
 **Always learning, always exploring.**
 
-Outside of work, you’ll probably find me watching **rocket launches**, exploring **nature**, or staying **active and on the move**
-
-**Let’s see where curiosity takes us next.**
-
 ---
-
 
 ## Core Focus Areas
 
