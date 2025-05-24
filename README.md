@@ -15,21 +15,17 @@ My journey hasn’t exactly followed a straight line – I went from **big const
 
 Whether it’s **designing something physical** or **creating a smart solution**, I love working where **logic meets creativity** and **real impact happens**.
 
----
-
 Along the way, I’ve earned an **eMBA**, explored **AI**, and **embraced every challenge** that came with switching paths.
 
 I believe in **constant growth** – and in finding **simple answers to complex problems**.
 
 ---
 
-### **Machine learning** 🤖, **AI**, **Space technology** 🚀?
+**Machine learning** 🤖, **AI**, **Space technology** 🚀?
 
 I’m **all in**!
 
-### Always learning, always exploring.
-
-
+**Always learning, always exploring.**
 
 Outside of work, you’ll probably find me watching **rocket launches**, exploring **nature**, or staying **active and on the move**
 
