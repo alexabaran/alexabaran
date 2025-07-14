@@ -34,7 +34,6 @@ The best technology feels invisible - because it fits people, not the other way 
 Big ideas. Simple tools. 
 Nature hikes, dogs, and strong coffee.
 
----
 
 ## Core Focus Areas
 
