@@ -5,27 +5,30 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/alexabaran)
 
 
-**A lifelong learner** with a passion for **discovery**, **creativity**, and solving **meaningful problems**.
+## AI + Curiosity + Coffee ☕ = Me
 
 ---
 
-My journey hasn’t exactly followed a straight line - I went from **big construction projects** to diving into the world of **data**, **tech**, and **innovation**.
+I’m on a mission to turn good ideas into smart, ethical tech.
+Still learning. Always curious. 
+Fueled by data, questions, and good coffee.
 
-**Curiosity** has always been my compass, and I’ve never stopped chasing what excites me to **learn** and **build**.
+**what I do... **
+I’m exploring how to build thoughtful AI and user-centered digital products - combining my engineering background with curiosity, empathy, and a love for creative problem-solving.
 
-Whether it’s **designing something physical** or **creating a smart solution**, I love working where **logic meets creativity** and **real impact happens**.
+**what I care about... **
+Responsible AI that’s ethical, sustainable, and made for people - with care, not just code.
 
-Along the way, I’ve earned an **eMBA**, explored **AI**, and **embraced every challenge** that came with switching paths.
+**where I come from... **
+Over 10 years in the construction industry taught me structure, systems thinking, and how to lead complex projects.
+Now I’m bringing that mindset into data, AI, and product design.
 
-I believe in **constant growth** – and in finding **simple answers to complex problems**.
+**what I believe... **
+The best technology feels invisible - because it fits people, not the other way around.
 
----
-
-**Machine learning** 🤖, **AI**, **Space technology** 🚀?
-
-I’m **all in**!
-
-**Always learning, always exploring.**
+**what I love... **
+Big ideas. Simple tools. 
+Nature hikes, dogs, and strong coffee.
 
 ---
 
