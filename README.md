@@ -44,17 +44,14 @@ Nature hikes, dogs, and strong coffee.
 
 > I’ve completed programs by **Google**, **infoShare Academy**, and others focused on applied AI, cloud-based deployment, and modern tooling for developers and business integration.
 
----
 
 ## Projects
 
 Most of my projects are from **bootcamp work and self-study** - check them out on my [GitHub](https://github.com/alexabaran) as I continue to build, learn, and contribute.
 
----
 
 ## Thanks for stopping by! Feel free to connect or reach out.
 
----
 
 ## Connect & Explore  
 - **Website:** [alexabaran.com](https://alexabaran.com)  
