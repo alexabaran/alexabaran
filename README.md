@@ -7,7 +7,6 @@
 
 ## AI + Curiosity + Coffee ☕ = Me
 
----
 
 I’m on a mission to turn good ideas into smart, ethical tech.
 Still learning. Always curious. 
