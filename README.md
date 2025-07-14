@@ -14,19 +14,24 @@ Still learning. Always curious.
 Fueled by data, questions, and good coffee.
 
 **what I do...**
+
 I’m exploring how to build thoughtful AI and user-centered digital products - combining my engineering background with curiosity, empathy, and a love for creative problem-solving.
 
 **what I care about...**
+
 Responsible AI that’s ethical, sustainable, and made for people - with care, not just code.
 
 **where I come from...**
+
 Over 10 years in the construction industry taught me structure, systems thinking, and how to lead complex projects.
 Now I’m bringing that mindset into data, AI, and product design.
 
 **what I believe...**
+
 The best technology feels invisible - because it fits people, not the other way around.
 
 **what I love...**
+
 Big ideas. Simple tools. 
 Nature hikes, dogs, and strong coffee.
 
